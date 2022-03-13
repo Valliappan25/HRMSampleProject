@@ -1,0 +1,57 @@
+2022-03-13 13:02:51 INFO  commonFunctions.CommonFunctions:47 - Loading Property File
+2022-03-13 13:02:51 INFO  commonFunctions.CommonFunctions:31 - Loading Configuration Properties File
+2022-03-13 13:02:56 INFO  commonFunctions.CommonFunctions:63 - Launching Edge
+2022-03-13 13:03:02 INFO  commonFunctions.CommonFunctions:74 - Lauching Application by hitting URL: https://opensource-demo.orangehrmlive.com/
+2022-03-13 13:03:02 INFO  testcases.TestCase_PendingLeaveRequest:21 - Logging in to the OrangeHRM Application
+2022-03-13 13:03:08 INFO  testcases.TestCase_PendingLeaveRequest:31 - Login Successful
+2022-03-13 13:03:08 INFO  testcases.TestCase_PendingLeaveRequest:32 - Listing all Pending Leave Request
+2022-03-13 13:03:08 INFO  testcases.TestCase_PendingLeaveRequest:34 - Ending of TestCase_PendingLeaveRequest Execution
+2022-03-13 13:03:09 INFO  testcases.Testcase_UserRole:19 - Navigate to User search page
+2022-03-13 13:03:11 INFO  testcases.Testcase_UserRole:22 - Seach user by enteing Username, role and status
+2022-03-13 13:03:12 INFO  testcases.Testcase_UserRole:26 - Validate the user details by role
+2022-03-13 13:03:12 INFO  testcases.Testcase_UserRole:28 - Validation successful!! Role matched
+2022-03-13 13:03:12 INFO  testcases.Testcase_UserRole:30 - Validate the user details by status
+2022-03-13 13:03:12 INFO  testcases.Testcase_UserRole:33 - Validation successful!! status matched
+2022-03-13 13:03:12 INFO  testcases.Testcase_UserRole:34 - End of Testcase_UserRole Execution
+2022-03-13 13:03:12 INFO  commonFunctions.CommonFunctions:81 - End Testcase Execution and closing Browser
+2022-03-13 13:04:55 INFO  commonFunctions.CommonFunctions:47 - Loading Property File
+2022-03-13 13:04:55 INFO  commonFunctions.CommonFunctions:31 - Loading Configuration Properties File
+2022-03-13 13:04:59 INFO  commonFunctions.CommonFunctions:63 - Launching Edge
+2022-03-13 13:05:06 INFO  commonFunctions.CommonFunctions:74 - Launching Application by hitting URL: https://opensource-demo.orangehrmlive.com/
+2022-03-13 13:05:06 INFO  testcases.Testcase_UserRole:19 - Navigate to User search page
+2022-03-13 13:05:26 INFO  testcases.TestCase_PendingLeaveRequest:21 - Logging in to the OrangeHRM Application
+2022-03-13 13:05:27 INFO  testcases.TestCase_PendingLeaveRequest:31 - Login Successful
+2022-03-13 13:05:27 INFO  testcases.TestCase_PendingLeaveRequest:32 - Listing all Pending Leave Request
+2022-03-13 13:05:31 INFO  commonFunctions.CommonFunctions:81 - End of Testcase Execution and closing Browser
+2022-03-13 13:06:03 INFO  commonFunctions.CommonFunctions:47 - Loading Property File
+2022-03-13 13:06:03 INFO  commonFunctions.CommonFunctions:31 - Loading Configuration Properties File
+2022-03-13 13:06:07 INFO  commonFunctions.CommonFunctions:57 - Launching Chrome
+2022-03-13 13:06:14 INFO  commonFunctions.CommonFunctions:74 - Launching Application by hitting URL: https://opensource-demo.orangehrmlive.com/
+2022-03-13 13:06:14 INFO  testcases.TestCase_PendingLeaveRequest:21 - Logging in to the OrangeHRM Application
+2022-03-13 13:06:20 INFO  testcases.TestCase_PendingLeaveRequest:31 - Login Successful
+2022-03-13 13:06:20 INFO  testcases.TestCase_PendingLeaveRequest:32 - Listing all Pending Leave Request
+2022-03-13 13:06:20 INFO  testcases.TestCase_PendingLeaveRequest:34 - Ending of TestCase_PendingLeaveRequest Execution
+2022-03-13 13:06:20 INFO  testcases.Testcase_UserRole:19 - Navigate to User search page
+2022-03-13 13:06:22 INFO  testcases.Testcase_UserRole:22 - Search user by entering Username, role and status
+2022-03-13 13:06:23 INFO  testcases.Testcase_UserRole:26 - Validate the user details by role
+2022-03-13 13:06:23 INFO  testcases.Testcase_UserRole:28 - Validation successful!! Role matched
+2022-03-13 13:06:23 INFO  testcases.Testcase_UserRole:30 - Validate the user details by status
+2022-03-13 13:06:23 INFO  testcases.Testcase_UserRole:33 - Validation successful!! status matched
+2022-03-13 13:06:23 INFO  testcases.Testcase_UserRole:34 - End of Testcase_UserRole Execution
+2022-03-13 13:06:23 INFO  commonFunctions.CommonFunctions:81 - End of Testcase Execution and closing Browser
+2022-03-13 13:07:15 INFO  commonFunctions.CommonFunctions:47 - Loading Property File
+2022-03-13 13:07:15 INFO  commonFunctions.CommonFunctions:31 - Loading Configuration Properties File
+2022-03-13 13:07:17 INFO  commonFunctions.CommonFunctions:57 - Launching Chrome
+2022-03-13 13:07:24 INFO  commonFunctions.CommonFunctions:75 - Launching Application by hitting URL: https://opensource-demo.orangehrmlive.com/
+2022-03-13 13:07:24 INFO  testcases.TestCase_PendingLeaveRequest:21 - Logging in to the OrangeHRM Application
+2022-03-13 13:07:30 INFO  testcases.TestCase_PendingLeaveRequest:31 - Login Successful
+2022-03-13 13:07:30 INFO  testcases.TestCase_PendingLeaveRequest:32 - Listing all Pending Leave Request
+2022-03-13 13:07:30 INFO  testcases.TestCase_PendingLeaveRequest:34 - Ending of TestCase_PendingLeaveRequest Execution
+2022-03-13 13:07:30 INFO  testcases.Testcase_UserRole:19 - Navigate to User search page
+2022-03-13 13:07:33 INFO  testcases.Testcase_UserRole:22 - Search user by entering Username, role and status
+2022-03-13 13:07:34 INFO  testcases.Testcase_UserRole:26 - Validate the user details by role
+2022-03-13 13:07:34 INFO  testcases.Testcase_UserRole:28 - Validation successful!! Role matched
+2022-03-13 13:07:34 INFO  testcases.Testcase_UserRole:30 - Validate the user details by status
+2022-03-13 13:07:34 INFO  testcases.Testcase_UserRole:33 - Validation successful!! status matched
+2022-03-13 13:07:34 INFO  testcases.Testcase_UserRole:34 - End of Testcase_UserRole Execution
+2022-03-13 13:07:34 INFO  commonFunctions.CommonFunctions:82 - End of Testcase Execution and closing Browser
